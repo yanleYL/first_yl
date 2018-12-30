@@ -9,4 +9,7 @@ package com.itheima.controller;
  * Time:10:00
  */
 public class LeftController {
+    public static void main(String[] args) {
+        System.out.println("克隆的controller");
+    }
 }
